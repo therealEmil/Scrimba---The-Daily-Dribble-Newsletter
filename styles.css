@@ -1,0 +1,56 @@
+Div
+{
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 380px;
+}
+.Title /*  */
+{
+ 
+}
+.text
+{
+   
+}
+button 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 300px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+
+}
+.pic
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 380px;
+    border-width: 3px;
+}   
+
+input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+
+
+
+
+}
+.Service {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+
+
+
+}
